@@ -4,8 +4,11 @@ You’re a growth analyst at Mercado LibreLinks to an external site.. With over 
 
 There are 4 steps to the project:
 Step 1: Find Unusual Patterns in Hourly Google Search Traffic
+
 Step 2: Mine the Search Traffic Data for Seasonality
+
 Step 3: Relate the Search Traffic to Stock Price Patterns
+
 Step 4: Create a Time Series Model with Prophet
 
 ## Solution
